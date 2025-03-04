@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		C991FE102D770B3000B797E4 /* UIUpdater.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = UIUpdater.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C991FE1D2D770B5700B797E4 /* SwiftUIUpdater */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = SwiftUIUpdater; path = ../SwiftUIUpdater; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -45,6 +46,7 @@
 		C991FE062D770B3000B797E4 = {
 			isa = PBXGroup;
 			children = (
+				C991FE1D2D770B5700B797E4 /* SwiftUIUpdater */,
 				C991FE122D770B3000B797E4 /* UIUpdater */,
 				C991FE112D770B3000B797E4 /* Products */,
 			);
